@@ -1,0 +1,7 @@
+PCA init score: 0.12392741119121284
+ICP src: (2612, 3) tgt: (2456, 3)
+Final RMSE (downsampled): 0.07926350911501574
+Final |t| = 0.16561236727030748 angle(deg) = 82.51465330441727
+centroid diff before: 0.25602095197116675
+centroid diff after : 0.04899655249427417
+rmse=0.06025647413280631
